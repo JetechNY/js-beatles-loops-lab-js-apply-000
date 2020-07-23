@@ -9,11 +9,3 @@ musicianInstrument[i]=musicianString;
 }
 return musicianInstrument;
 }
-function johnLennonFacts()
-{
-
-}
-function iLoveTheBeatles()
-{
-
-}
